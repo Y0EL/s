@@ -1,16 +1,30 @@
-# Dopefolio 🔥
+### Hai, Gue [Yoel](https://yoelandreas.manoppo.my.id) 👋
 
-## A Blazing Fast Multipage Portfolio Template for Developers 🚀
+Gue hanya seorang pelajar SMA yang biasa biasa saja, gue bersekolah di SMA 41 Jakarta Utara
 
-## [Demo Link](https://dopefolio.netlify.app) 🔗
+**Gue sangat tertarik pada**:
+- HTML & CSS
+- Klasifikasi
+- Monitoring
+- Fie Fie
 
-<div align="center">
-  <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Dopefolio Demo" width="100%" />
-  <br>
-</div>
+ **Gue bersedia untuk**:
 
-<br/>
-<br/>
+- Melakukan kolaborasi,
+- Menjadi pekerja magang / Internship
+- Bersedia menjadi reviewer PC
+
+## Sosial media:
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=black" />](https://wa.me/6283844000383)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/saya_andreas)
+</p>
+
+| <a href="https://github.com/Y0EL"><img align="center" src="https://instagram.fcgk2-1.fna.fbcdn.net/v/t51.2885-19/270059793_4462990430490432_4178579679541833664_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fcgk2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=oJu3RTsC82oAX_O3BtQ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-RYKjwXGTKe_7oPh9r5Yo-8ldLp-q7xSn635DA-O8zIA&oe=6279E04B&_nc_sid=7bff83" alt="Yoel" /></a> | 
+| ------------- |
+
 
 ## Features
 
@@ -54,71 +68,10 @@
 
 <br/>
 
-## How To Use 🔧
-
-From your command line, first clone Dopefolio:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/rammcodes/dopefolio
-
-# Go into the repository
-$ cd dopefolio
-
-# Remove current origin repository
-$ git remote remove origin
-```
-
-<br/>
-
-Then you can install the dependencies
-
-Using NPM:
-
-```bash
-# Install dependencies
-$ npm install
-
-# Listen to changes in CSS Preprocessor files ( SASS files )
-$ npm run compile:scss
-```
-
-Once you run `npm run compile:scss`, then open the `index.html` inside your favorite browser or using the live server extension.
 
 <br>
 
----
-
-<br>
-
-## Template Instructions:
-
-## Step 1 - STYLES
-
-Make sure you have started the SASS to CSS compilation by running
-
-```bash
-$ npm run compile:scss
-```
-
-Change the color theme of the website.
-
-Go to `sass/abstracts/_variables.scss` and change the value of this sass variable called `$themeClrPrimary` to your preferred HEX color.
-
-```scss
-// Default value
-$themeClrPrimary: #0062b9;
-```
-
-**NOTE**: I highly recommend to checkout the [Dopefolio Playground Link](https://dopefolio-playground.netlify.app) to test the template with different colors and see which color do you like the most.
-
-<br/>
-
----
-
-<br/>
-
-## Step 2 - Homepage
+## Step 1 - Homepage
 
 Go to `/index.html` and fill your information, there are 6 sections:
 
@@ -774,7 +727,7 @@ I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )
 
 ## Special Thanks ❤️
 
-Special thanks to [Jacobo Martínez](https://github.com/cobidev) for inspiring me to create something useful for the Developer Community. **Jacobo** is the creator of [Simplefolio](https://github.com/cobidev/simplefolio) which is another great Portfolio website Template for Developers. Check it out and show him some love ❤️
+Special thanks to [Manoppo](https://instagram.com/saya_andreas) for inspiring me to create something useful for the Developer Community. **Jacobo** is the creator of [Simplefolio](https://github.com/cobidev/simplefolio) which is another great Portfolio website Template for Developers. Check it out and show him some love ❤️
 
 <br>
 
