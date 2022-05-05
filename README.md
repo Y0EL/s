@@ -14,8 +14,8 @@ Gue hanya seorang pelajar SMA yang biasa biasa saja, gue bersekolah di SMA 41 Ja
 - Menjadi pekerja magang / Internship
 - Bersedia menjadi reviewer P
 
-## Deployment using Netlify 📦
-npm run build
+## Deployment 📦
+- npm run build
 
 ## Sosial media:
 
